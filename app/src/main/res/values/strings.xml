@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Start">Start</string>
+    <string name="Go">Go</string>
+
+    <string name="livingroom_input_hint">AddItem</string>
+    <string name="light_3_color">Colour</string>
+    <string name="light_3">Light</string>
+    <string name="light_1">Light1</string>
+    <string name="light_2">Light3</string>
+    <string name="dialog_color_green">Green</string>
+    <string name="dialog_color_blue">Blue</string>
+    <string name="dialog_color_red">Red</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="livingroom_blinds">Blinds</string>
+    <string name="livingroom_lights">Cancel</string>
+    <string name="livingroom_television">Cancel</string>
+    <string name="about_livingroom">Author: Princedeep Singh\nVersion: 1.0\n\nInstructions:</string>
+    <string name="about_livingroomlist">\tList controls:
+        \n\- To add an item to the list, enter the name in the text box, and press the (+) icon.
+        \n\- To remove an item from the list, enter the name in the text box, and press the garbage can icon.</string>
+    <string name="about_television">\tTelevision Controls:
+        \n\- Power on or off the TV with the top-left button.
+        \n\- Navigate the menus with the arrow buttons.
+        \n\- Select a menu item with the Enter button, located in the center of the arrows
+        \n\- Enter the desired channel in the text box below the arrows.
+        \n\- The back button, located to the bottom left, returns you to your previous page or channel.
+        \n\- The microphone prompts you to speak aloud the desired channel to go to, rather than typing it in the text box.</string>
+    <string name="about_lights">\tLight Controls:
+        \n\- Move the sliders to control the lights.
+        \n\- Left to dim or shut off, right to brighten or turn on.
+        \n\- Click the \"CHOOSE COLOR\" button to change the light\'s color.</string>
+    <string name="about_blinds">\tBlinds Controls:
+        \n\- Move the sliders control the blinds.
+        \n\- Left to lower, right to raise.</string>
+    <string name="about_credits">\tCredits:
+        \nBlinds icons from Icons8 @ https://icons8.com</string>
+    <string name="blinds_1">Lamp 1</string>
+    <string name="blinds_a">Slider 1</string>
+    <string name="blinds_b">Slider 2</string>
+    <string name="blinds_c">Slider 3</string>
+    <string name="blinds_2">Lamp 2</string>
+    <string name="blinds_3">Lamp 3</string>
+    <string name="television_desc_up">UP</string>
+    <string name="television_desc_left">DOWN</string>
+    <string name="television_input">Value</string>
+    <string name="television_desc_mic">Mic</string>
+    <string name="television_desc_back">Desc_Back</string>
+    <string name="television_desc_enter">Desc_Enter</string>
+    <string name="television_desc_right">Desc_Right</string>
+    <string name="television_desc_down">Desc_Down</string>
+    <string name="dialog_color_title">Red</string>
+</resources>
